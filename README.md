@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я начинающий Python-разработчик 👋
 
-<!--
-**wastery123/wastery123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю Python около полугода. Мне интересно бэкенд-разработка, автоматизация и создание полезных инструментов.
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек технологий:
+- **Языки:** Python (ООП, venv, базовая алгоритмика)
+- **Фреймворки и библиотеки:** FastAPI, requests, BeautifulSoup, aiogram
+- **Базы данных:** SQLite, PostgreSQL
+- **Инструменты:** Git, GitHub, VS Code (базовый уровень)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Мои главные проекты:
+- **[Скачивание звука или видео с любой платформы](https://github.com/wastery123/downloader-video-and-audio-from-youtube-and-other)** — скачивает любое видео или звуковую дорожку с любой онлайн платформы 
+
+## ✉️ Как со мной связаться:
+- **Telegram:** @wasteryy
+- **Email:** ebaranov724@gmail.com
